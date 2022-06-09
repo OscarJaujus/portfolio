@@ -1,3 +1,47 @@
+
+/* ABOUT SECTION */
 body {
-    background:  grey;
+    background: grey;
+    
+}
+
+#container {
+    padding: 2%;
+    margin: auto;
+    position: absolute;
+}
+
+#container {
+    padding: 2%;
+    margin: auto;
+    position: absolute;
+}
+
+/* ABOUT SECTION */
+
+#aboutTitle {
+    font-size: xx-large;
+    font-family: cursive;
+    color: rgb(36, 36, 59)
+}
+
+.aboutText {
+    padding-right: 45%;
+    font-size: xx-large;
+    font-family: cursive;
+    color: rgb(53, 53, 78);
+
+}
+
+#moreAbout {
+    font-size: large;
+    font-family: cursive;
+    text-decoration: none;
+
+}
+
+.imgAbout {
+    padding-left: 55%;
+    position: absolute;
+    margin: auto;
 }
