@@ -13,7 +13,6 @@ https://oscarjaujus.github.io/portfolio/
 ## Technologies Used
 1. HTML
 2. CSS
-3. Bootstrap
 *****
 ## Contact Information
 * Email : oscaromondiomondi@gmail.com
